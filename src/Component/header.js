@@ -19,7 +19,7 @@ function Header() {
             {/* Navigation Links and Form */}
             <div className="collapse navbar-collapse" id="navbarNav">
               <ul className="navbar-nav">
-                <li className="nav-item"><NavLink className="nav-link active" aria-current="page" to="/"> first</NavLink></li>
+                <li className="nav-item"><NavLink className="nav-link active" aria-current="page" to="/"> Home</NavLink></li>
                 <li className="nav-item"> <NavLink className="nav-link" to="/about">About</NavLink></li>
                 <li className="nav-item"> <NavLink className="nav-link" to="/service">Services</NavLink></li>
                 <li className="nav-item"> <NavLink className="nav-link" to="/blog">Blog</NavLink></li>
